@@ -39,6 +39,7 @@ section {
     margin: 100px 10%;
     text-align: center;
     padding: 10px;
+    background-color: #1f283390;
 }
 #color-display {
     color: black;
